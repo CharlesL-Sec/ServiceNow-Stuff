@@ -12,7 +12,7 @@ ServiceNow things to learn / remember
 - dev143316.service-now.com/sp
   - Access to knowledge, Requests, System Status, Order Cart, Tours
 
-## developer
+## Developer
 
 **Script Editor**
 - https://dev219016.service-now.com/sys.scripts.do
@@ -25,3 +25,9 @@ ServiceNow things to learn / remember
 **Refs**  
 **Scripting basics**
 - https://www.youtube.com/watch?v=9dwAAIPkJko&list=PLKH9bPqlw1neGCJbunoZl7ag-zYxyi8Oe&sttick=0
+
+- **JavaScipt Methods**
+**Replace**
+- object.replace("this","that");   e.g
+
+- 
